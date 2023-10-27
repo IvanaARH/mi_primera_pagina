@@ -1,0 +1,31 @@
+/* se llama a las etiquetas */
+header{
+    background-image: url("https://i.pinimg.com/564x/f3/02/38/f30238122d1360f0f5e9f73581293302.jpg")
+}
+/* fondo-color */
+body{
+    background-color:#f8ecd4;
+}
+/* texto-color */
+p{
+    color:#a29d7f;
+    font-family: 'Oswald', sans-serif;
+    font-size:15px ;
+}
+h3{
+    color: #9d7e79;
+    font-family: 'Oswald', sans-serif;
+}
+.titulo{
+    color:brown;
+}
+/* class: para muchos
+id: solo uno */
+img{
+    width:200px;
+    align-content: center;
+    margin: 20px,30px,20px,30px;
+}
+.Ivana{
+    color: violet;
+}
